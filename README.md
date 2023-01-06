@@ -1,5 +1,3 @@
-## COMPUTER GRAPHICS PROJECT
-
-ltsach@hcmut.edu.vn
+## IMAGE PROCESSING PROJECT
 
 Install the following packages:
